@@ -2,7 +2,7 @@
 
 DB_HOST="terraform-20250726035957831000000002.ce1se0kskqin.us-east-1.rds.amazonaws.com"
 DB_USER="dbadmin"
-DB_PASS=Deeraj12345"
+DB_PASS=Deeraj1234"
 DB_NAME="mydb"
 
 echo "<h1>Hello World</h1>" > /var/www/html/index.html
